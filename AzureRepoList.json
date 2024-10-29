@@ -1,0 +1,8 @@
+{
+    "RepoList" : [
+    {
+        "AzureRepoName":"AzureDevopsRepoPOC",
+        "ADOCloneURL":"dev.azure.com/milindpatil/AzureDevopsRepoPOC/_git/AzureDevopsRepoPOC",
+         "GitHubCloneURL":"git@github.com:patil-milind/AzureDevopsRepoPOC.git"
+    }
+}
